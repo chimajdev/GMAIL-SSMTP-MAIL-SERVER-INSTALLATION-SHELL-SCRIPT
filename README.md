@@ -18,4 +18,13 @@
 
     (https://youtu.be/f28VamgFKq8)MAIL SSMTP MAIL SERVER INSTALLATION SHELL SCRIPT
 
+# Note:
 
+To send mail through gamil ssmtp need to change the settings in gmail.There are two ways either need to follow anyone.
+         
+         * By Less Secure Apps
+         * By Two Step Verification Apps password
+
+# If you are following "Less Secure Apps" provide your gmail id and gamil id password while installation.
+                                       or
+# If you are following "Two Step Verification Apps Password" Provide gmail id and Generated App Password while installation. Detailed instructions added below.
