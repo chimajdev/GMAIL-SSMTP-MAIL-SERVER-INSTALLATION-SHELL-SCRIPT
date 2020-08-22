@@ -3,7 +3,7 @@
 echo "updating the system"
 echo
 echo
-apt update
+apt update -y
 echo
 echo
 echo "installing mailutils"
@@ -15,7 +15,7 @@ echo
 echo "installing ssmtp"
 echo
 echo
-sudo apt-get install ssmtp -y
+apt-get install ssmtp -y
 echo
 echo
 echo -n  "provide your email id:" 
